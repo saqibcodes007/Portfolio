@@ -8,16 +8,16 @@ const Education = () => {
   const educationData = [
     {
       id: 'edu1',
-      degree: 'Bachelor of Technology - BTech',
+      degree: 'Bachelor of Technology | BTech',
       field: 'Biochemical Engineering',
       institution: 'University School of Chemical Technology',
       period: '2013 - 2017',
     },
     {
       id: 'edu2',
-      degree: 'HSC (12th)',
+      degree: 'Higher Secondary School (12th)',
       field: 'Mathematics and Computer Science',
-      institution: 'New Green Field School - India',
+      institution: 'New Green Field School, Delhi | CBSE',
       period: '2013',
     }
   ];
